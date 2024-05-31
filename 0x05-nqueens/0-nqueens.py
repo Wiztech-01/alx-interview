@@ -41,4 +41,3 @@ if __name__ == "__main__":
     solutions = n_queens([], [0] * n, 0, n)
     for solution in solutions:
         print([[i, solution[i]] for i in range(n)])
-        
