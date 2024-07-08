@@ -48,4 +48,3 @@ def isWinner(x, nums):
         return "Maria"
     else:
         return "Ben"
-    
