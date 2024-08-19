@@ -1,4 +1,4 @@
-# 0x08-making_change
+## Readme of 0x08-making_change
 ---
 
 The coin change problem is an important task for several reasons, spanning both practical applications and educational benefits:
